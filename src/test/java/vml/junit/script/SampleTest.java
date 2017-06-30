@@ -11,4 +11,8 @@ import vml.junit.script.def.ImpCase;
 
 public class SampleTest{
 
+	public void testing(){
+		System.out.println("Adding Conflict");
+	}
+
 }
