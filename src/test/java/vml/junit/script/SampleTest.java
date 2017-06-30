@@ -10,7 +10,5 @@ import vml.junit.script.def.ImpCase;
 @SuiteClasses({ImpCase.class})
 
 public class SampleTest{
-	public void testing(){
-		
-	}
+
 }
